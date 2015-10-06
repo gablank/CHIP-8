@@ -1,7 +1,4 @@
-#include <iostream>
 #include "Computer.h"
-
-using namespace std;
 
 int main(int argc, char **argv) {
     Computer computer;
